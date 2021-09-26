@@ -1,0 +1,29 @@
+.cart-glassStyle{
+    backdrop-filter: blur(4px) saturate(200%);
+    background-color: rgba(17, 25, 40, 0.7);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
+    color: #fff;
+    width: 100%;
+min-height: 200px;
+
+    text-align: center;
+}
+.selectedActors{
+    background-color: #3f9c59;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.cart-img{
+    width: 60px;
+    margin-right:20px;
+}
+.button{
+    padding: 10px 30px;
+    background-color: #3f9c59;
+    color: #fff;
+    font-weight: 400;
+    border: 0px;
+    border-radius: 5px;
+
+}
